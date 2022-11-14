@@ -2,20 +2,20 @@
   <p align="center"> 
     A 2d game that was developed using C++ and SFML library.
   </p>
-  <br> 
+  
+ <br> 
+  
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/abrahamcalf/languages.abranhe.com/blob/master/languages/cpp.png" alt="cplusplus" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> 
       <img src="https://seeklogo.com/images/S/sfml-logo-07385EC93E-seeklogo.com.png" alt="SFML" height="40"/> 
   </a> 
 
 </p>
 
-
-<br>
 
 ## Demo
 
